@@ -1,8 +1,11 @@
-# Dokumentasi Sistem UTS Pemrograman Web 1
+NAMA: Muhamad Akbar Ergiansyah
 
-Berikut adalah dokumentasi tampilan aplikasi dalam bentuk screenshot (total 14 gambar), ditampilkan secara berurutan dari atas ke bawah.
+NPM: 23552011411
 
----
+KELAS: TIF RP223 CNS B
+
+UJIAN TENGAH SEMESTER PEMROGRAMAN WEB 1
+# Dokumentasi Project 1
 
 ## 📸 Halaman Beranda
 ![Screenshot 1](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20223309.png)
