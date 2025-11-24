@@ -1,0 +1,19 @@
+<?php
+// config.php
+session_start();
+$host = 'localhost';
+$db   = 'uts_web';
+$user = 'root';
+$pass = ''; // ganti jika Anda punya password MySQL
+$charset = 'utf8mb4';
+$dsn = "mysql:host=$host;dbname=$db;charset=$charset";
+$options = [
+    PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
+    PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+];
+try {
+    $pdo = new PDO($dsn, $user, $pass, $options);
+} catch (Exception $e) {
+    // Jika berjalan via browser, tampilkan pesan sederhana
+    die('Database connection failed: '.$e->getMessage());
+}
