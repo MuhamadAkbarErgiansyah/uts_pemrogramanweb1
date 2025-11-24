@@ -41,3 +41,15 @@ UJIAN TENGAH SEMESTER PEMROGRAMAN WEB 1
 
 # Dokumentasi Project 2
 
+## 📸 Screenshot 15
+![Screenshot 15](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20231724.png)
+
+## 📸 Screenshot 16
+![Screenshot 16](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20231829.png)
+
+## 📸 Screenshot 17
+![Screenshot 17](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20232924.png)
+
+## 📸 Screenshot 18
+![Screenshot 18](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20233109.png)
+
