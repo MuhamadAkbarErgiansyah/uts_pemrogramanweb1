@@ -1,17 +1,50 @@
-## Dokumentasi Aplikasi
+# Dokumentasi Sistem UTS Pemrograman Web 1
 
-![SS 1](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 223309.png)
-![SS 2](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 224739.png)
-![SS 3](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 224808.png)
-![SS 4](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 224846.png)
-![SS 5](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 224914.png)
-![SS 6](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 224933.png)
-![SS 7](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 224944.png)
-![SS 8](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 225002.png)
-![SS 9](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 225014.png)
-![SS 10](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 225024.png)
-![SS 11](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 225033.png)
-![SS 12](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 225044.png)
-![SS 13](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 225054.png)
-![SS 14](https://raw.githubusercontent.com/USERNAME/REPO/main/Screenshot 2025-11-24 225103.png)
+Berikut adalah dokumentasi tampilan aplikasi dalam bentuk screenshot (total 14 gambar), ditampilkan secara berurutan dari atas ke bawah.
+
+---
+
+## 📸 Screenshot 1
+![Screenshot 1](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20223309.png)
+
+## 📸 Screenshot 2
+![Screenshot 2](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20224739.png)
+
+## 📸 Screenshot 3
+![Screenshot 3](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20224808.png)
+
+## 📸 Screenshot 4
+![Screenshot 4](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20224846.png)
+
+## 📸 Screenshot 5
+![Screenshot 5](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20224914.png)
+
+## 📸 Screenshot 6
+![Screenshot 6](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20224933.png)
+
+## 📸 Screenshot 7
+![Screenshot 7](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20224944.png)
+
+## 📸 Screenshot 8
+![Screenshot 8](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20225002.png)
+
+## 📸 Screenshot 9
+![Screenshot 9](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20225014.png)
+
+## 📸 Screenshot 10
+![Screenshot 10](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20225024.png)
+
+## 📸 Screenshot 11
+![Screenshot 11](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20225033.png)
+
+## 📸 Screenshot 12
+![Screenshot 12](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20225044.png)
+
+## 📸 Screenshot 13
+![Screenshot 13](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20225054.png)
+
+## 📸 Screenshot 14
+![Screenshot 14](https://raw.githubusercontent.com/MuhamadAkbarErgiansyah/uts_pemrogramanweb1/main/images/Screenshot%202025-11-24%20225103.png)
+
+---
 
